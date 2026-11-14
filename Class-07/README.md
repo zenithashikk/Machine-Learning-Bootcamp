@@ -13,8 +13,8 @@ detecting and treating outliers, cleaning text data, and preparing datasets for 
 - Numerical missing value imputation using Median
 - Simple Imputer
 - KNN Imputer
-- Forward Fill (`ffill`)
-- Backward Fill (`bfill`)
+- Forward Fill 
+- Backward Fill 
 - Removing missing rows and columns
 
 ### 2. Outlier Detection & Treatment

@@ -1,0 +1,41 @@
+customer_id,signup_timestamp,age,annual_income,spending_score,membership_tier,preferred_category,device_type,last_purchase_amount,discount_usage_pct,customer_feedback
+CUST-1001,2023-01-14 09:30:00,28,52000.0,65,Bronze,Electronics,Mobile,120.50,15.0,Great gadget selection fast delivery
+CUST-1002,2022-11-05 18:45:00,45,98000.0,82,Gold,Fashion,Desktop,450.00,5.0,Loved the winter collection quality
+CUST-1003,2023-03-22 14:15:00,34,67000.0,45,Silver,Home,Mobile,85.20,25.0,Items arrived on time as expected
+CUST-1004,2021-08-19 21:10:00,52,145000.0,91,Platinum,Electronics,Desktop,1250.00,0.0,Premium flagship laptop is superb
+CUST-1005,2023-05-30 11:05:00,23,31000.0,38,Bronze,Beauty,Mobile,42.00,40.0,Affordable makeup and nice discount
+CUST-1006,2022-07-12 16:20:00,39,84000.0,72,Silver,Sports,Tablet,210.75,10.0,Running shoes fit perfectly
+CUST-1007,2023-02-18 08:50:00,29,59000.0,58,Bronze,Fashion,Mobile,95.00,20.0,Trendy clothes but size runs small
+CUST-1008,2021-12-01 23:40:00,48,112000.0,88,Gold,Electronics,Desktop,890.00,5.0,Excellent noise cancelling headphones
+CUST-1009,2023-06-11 13:15:00,31,73000.0,62,Silver,Home,Mobile,160.30,15.0,Solid kitchen cookware set
+CUST-1010,2022-04-25 19:35:00,61,168000.0,95,Platinum,Fashion,Desktop,2100.00,0.0,Bespoke luxury designer suit
+CUST-1011,2023-07-04 10:25:00,22,28000.0,30,Bronze,Beauty,Mobile,35.50,50.0,Good clearance sale promo codes
+CUST-1012,2022-09-17 15:55:00,41,92000.0,76,Gold,Sports,Tablet,340.00,8.0,High quality mountain bike gear
+CUST-1013,2023-04-08 17:10:00,27,49000.0,52,Bronze,Electronics,Mobile,110.00,18.0,Reliable wireless charger pad
+CUST-1014,2021-10-30 20:05:00,56,132000.0,84,Gold,Home,Desktop,620.00,5.0,Modern ergonomic office chair
+CUST-1015,2023-08-14 12:40:00,35,78000.0,68,Silver,Fashion,Mobile,185.00,12.0,Stylish everyday sneakers
+CUST-1016,2022-03-03 07:15:00,25,44000.0,48,Bronze,Sports,Mobile,75.00,30.0,Durable gym resistance bands
+CUST-1017,2021-06-21 18:30:00,50,158000.0,93,Platinum,Electronics,Desktop,1750.00,0.0,Smart 4k home theater projector
+CUST-1018,2023-09-02 14:50:00,30,63000.0,55,Silver,Beauty,Mobile,92.00,15.0,Gentle organic skincare serum
+CUST-1019,2022-12-14 22:15:00,43,105000.0,80,Gold,Home,Tablet,510.00,6.0,Smart robot vacuum cleaner
+CUST-1020,2023-10-20 11:20:00,26,39000.0,42,Bronze,Fashion,Mobile,68.00,35.0,Comfortable casual cotton tees
+CUST-1021,2022-05-19 16:45:00,37,86000.0,70,Silver,Electronics,Desktop,315.00,10.0,Mechanical gaming keyboard
+CUST-1022,2021-11-11 21:00:00,58,175000.0,96,Platinum,Fashion,Desktop,2400.00,0.0,Italian handcrafted leather luggage
+CUST-1023,2023-03-05 09:10:00,24,35000.0,36,Bronze,Sports,Mobile,55.00,25.0,Yoga mat and water bottle set
+CUST-1024,2022-08-28 13:30:00,47,118000.0,86,Gold,Home,Tablet,780.00,5.0,Espresso coffee machine barista
+CUST-1025,2023-07-22 17:55:00,33,71000.0,60,Silver,Beauty,Mobile,130.00,12.0,Professional hair styling kit
+CUST-1026,2022-02-14 19:20:00,29,56000.0,54,Bronze,Fashion,Mobile,105.00,20.0,Valentine gift watch package
+CUST-1027,2021-09-09 15:40:00,54,149000.0,90,Platinum,Electronics,Desktop,1399.00,2.0,Curved ultrawide productivity monitor
+CUST-1028,2023-08-30 08:25:00,21,25000.0,28,Bronze,Sports,Mobile,30.00,45.0,Budget workout jump rope
+CUST-1029,2022-10-18 12:00:00,42,96000.0,78,Gold,Fashion,Tablet,410.00,8.0,Waterproof outdoor hiking jacket
+CUST-1030,2023-05-12 18:15:00,36,81000.0,66,Silver,Home,Mobile,225.00,10.0,Air purifier for bedroom
+CUST-1031,2022-01-27 20:50:00,49,122000.0,85,Gold,Electronics,Desktop,720.00,5.0,Wireless noise cancelling ear buds
+CUST-1032,2023-11-03 14:05:00,27,47000.0,50,Bronze,Beauty,Mobile,88.00,22.0,Daily facial sunscreen moisturizer
+CUST-1033,2021-07-15 16:30:00,55,162000.0,94,Platinum,Home,Desktop,1850.00,0.0,Smart stainless refrigerator drawer
+CUST-1034,2023-04-19 11:45:00,32,69000.0,59,Silver,Sports,Mobile,145.00,15.0,Adjustable dumbbell weight set
+CUST-1035,2022-06-08 22:10:00,44,102000.0,79,Gold,Fashion,Tablet,380.00,7.0,Cashmere blend winter overcoat
+CUST-1036,2023-10-01 10:15:00,23,33000.0,35,Bronze,Electronics,Mobile,60.00,30.0,Portable bluetooth speaker mini
+CUST-1037,2022-11-25 15:20:00,38,88000.0,74,Silver,Beauty,Mobile,195.00,10.0,Hydrating night repair cream
+CUST-1038,2021-12-30 19:40:00,60,185000.0,98,Platinum,Electronics,Desktop,2800.00,0.0,Top tier desktop workstation rig
+CUST-1039,2023-06-25 13:50:00,28,54000.0,56,Bronze,Sports,Mobile,115.00,18.0,Cycling helmet with safety light
+CUST-1040,2022-09-04 17:05:00,46,115000.0,83,Gold,Home,Desktop,670.00,4.0,Solid oak expandable dining table
